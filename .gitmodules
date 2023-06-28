@@ -1,0 +1,9 @@
+[submodule "stim-web"]
+	path = stim-web
+	url = https://github.com/danielvolchek/stim-web
+[submodule "stim-db"]
+	path = stim-db
+	url = https://github.com/danielvolchek/stim-db
+[submodule "stim-email"]
+	path = stim-email
+	url = https://github.com/danielvolchek/stim-email
