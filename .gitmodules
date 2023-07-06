@@ -10,3 +10,9 @@
 	path = stim-email
 	url = https://github.com/danielvolchek/stim-email
   branch = main
+[submodule "stim-core"]
+	path = stim-core
+	url = https://github.com/danielvolchek/stim-core
+[submodule "stim-utils"]
+	path = stim-utils
+	url = https://github.com/danielvolchek/stim-utils
