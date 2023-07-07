@@ -16,3 +16,6 @@
 [submodule "stim-utils"]
 	path = stim-utils
 	url = https://github.com/danielvolchek/stim-utils
+[submodule "stim-docs"]
+	path = stim-docs
+	url = https://github.com/danielvolchek/stim-docs
