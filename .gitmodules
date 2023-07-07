@@ -4,3 +4,15 @@
 [submodule "stim-pkgs/stim-utils"]
 	path = stim-pkgs/stim-utils
 	url = https://github.com/danielvolchek/stim-utils
+[submodule "stim-services/stim-web"]
+	path = stim-services/stim-web
+	url = https://github.com/danielvolchek/stim-web
+[submodule "stim-services/stim-db"]
+	path = stim-services/stim-db
+	url = https://github.com/danielvolchek/stim-db
+[submodule "stim-services/stim-core"]
+	path = stim-services/stim-core
+	url = https://github.com/danielvolchek/stim-core
+[submodule "stim-services/stim-email"]
+	path = stim-services/stim-email
+	url = https://github.com/danielvolchek/stim-email
