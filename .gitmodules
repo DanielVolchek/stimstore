@@ -13,8 +13,8 @@
 [submodule "stim-core"]
 	path = stim-service/stim-core
 	url = https://github.com/danielvolchek/stim-core
-[submodule "stim-pkg/stim-utils"]
-	path = stim-pkg/stim-utils
+[submodule "stim-pkgs/stim-utils"]
+	path = stim-pkgs/stim-utils
 	url = https://github.com/danielvolchek/stim-utils
 [submodule "stim-docs"]
 	path = stim-docs
