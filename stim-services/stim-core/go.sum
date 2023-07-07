@@ -1,0 +1,6 @@
+github.com/danielvolchek/stim-utils v0.0.1 h1:GOV+NMKBR/cpxlhx6DwatQLWrDS34LdGG6vbSov3djk=
+github.com/danielvolchek/stim-utils v0.0.1/go.mod h1:HKbVzAKLvJVdyp3Q5w2je8mWnxu7mquwEHyzLSJ1nPY=
+github.com/danielvolchek/stim-utils v0.0.2 h1:hAVJdPicoG8pFd7/7IlL9ShBRljN9AhCservcaEbhwY=
+github.com/danielvolchek/stim-utils v0.0.2/go.mod h1:HKbVzAKLvJVdyp3Q5w2je8mWnxu7mquwEHyzLSJ1nPY=
+github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
+github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
