@@ -1,0 +1,6 @@
+[submodule "stim-docs"]
+	path = stim-docs
+	url = https://github.com/danielvolchek/stim-docs
+[submodule "stim-pkgs/stim-utils"]
+	path = stim-pkgs/stim-utils
+	url = https://github.com/danielvolchek/stim-utils

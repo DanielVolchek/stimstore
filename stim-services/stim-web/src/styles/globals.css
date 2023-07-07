@@ -1,7 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-.hoverEffect{
-@apply hover:-translate-y-[6px] hover:shadow-md 
-}
