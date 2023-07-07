@@ -1,20 +1,20 @@
 [submodule "stim-web"]
-	path = stim-web
+	path = stim-services/stim-web
 	url = https://github.com/danielvolchek/stim-web
   branch = main
 [submodule "stim-db"]
-	path = stim-db
+	path = stim-services/stim-db
 	url = https://github.com/danielvolchek/stim-db
   branch = main
 [submodule "stim-email"]
-	path = stim-email
+	path = stim-services/stim-email
 	url = https://github.com/danielvolchek/stim-email
   branch = main
 [submodule "stim-core"]
-	path = stim-core
+	path = stim-service/stim-core
 	url = https://github.com/danielvolchek/stim-core
 [submodule "stim-utils"]
-	path = stim-utils
+	path = stim-pkg/stim-utils
 	url = https://github.com/danielvolchek/stim-utils
 [submodule "stim-docs"]
 	path = stim-docs
